@@ -1,30 +1,152 @@
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
-<h3>When I code, I rely on</h3>
-<p>
-  <img alt="Django" src="https://img.shields.io/badge/-Django-E34F26?style=flat-square&logo=Django&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-be3d19?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<div align="center" id="top">
+  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
+
+  <a href="https://profile-readme-generator.com">Demo</a>
+</div>
+
+<div align="center">
+  <h1>Profile Readme Generator</h1>
+  <h3>The best profile readme generator you will find!</h3>
+</div>
+
+<p align="center">
+  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
+    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
+    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
+  </a>
 </p>
+
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0;
+  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+</p>
+
+## :dart: About ##
+
+Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
+
+**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
+
+**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
+
+**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
+
+
+<p align="center">
+<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
+</p>
+
+https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
+
+## :rocket: Main Technologies ##
+
+<a href="https://nextjs.org">
+  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://www.typescriptlang.org">
+  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://styled-components.com">
+  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
+</a> &#xa0; &#xa0;
+
+<a href="https://jestjs.io">
+  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://eslint.org">
+  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
+</a> &#xa0; &#xa0;
+
+<a href="https://prettier.io">
+  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
+</a>
+
+###
+
+<details>
+  <summary>See more</summary>
+
+  ###
+
+  * [Styled Icons (Feather Icons)](https://styled-icons.js.org)
+  * [Styled Media Query](https://github.com/morajabi/styled-media-query)
+  * [Framer Motion](https://framer.com/motion/)
+  * [HTML Prettify](https://github.com/Dmc0125/html-prettify)
+  * [React Share](https://github.com/nygardk/react-share)
+  * [Prismjs](https://prismjs.com)
+  * [UUID](https://www.npmjs.com/package/uuid)
+
+</details>
+
+## :white_check_mark: Requirements ##
+
+Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
+
+## :checkered_flag: Starting ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/maurodesouza/profile-readme-generator
+
+# Access
+$ cd profile-readme-generator
+
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn dev
+
+# The server will initialize in the <http://localhost:3000>
+```
+
+## :video_game: Scripts
+
+- `dev`: starts the application at `localhost:3000`;
+- `build`: creates an optimized production build of the application;
+- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
+- `test`: runs the tests;
+- `lint`: runs eslint in the /src directory.
+
+## :memo: License ##
+
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
+
+
+Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
+
+*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
