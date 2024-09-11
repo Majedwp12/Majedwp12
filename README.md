@@ -3,7 +3,7 @@
   <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
 </a> &#xa0; &#xa0;
 
-<a href="https://www.typescriptlang.org">
+<a href="https://www.python.org">
   <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/python-logo.svg">
 </a> &#xa0; &#xa0;
 
@@ -20,6 +20,6 @@
 </a> &#xa0; &#xa0;
 
 <a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
+  <img width="50" title="Prettier" alt="Prettier Logo" src="https://python.org/icon.png">
 </a>
 
