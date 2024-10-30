@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Majedwp12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Majedwp12&icon=6&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Majedwp12&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
